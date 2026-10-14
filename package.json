@@ -1,0 +1,16 @@
+{
+  "name": "exo_note_jean_veillerot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "befunge93": "^1.0.5"
+  }
+}
